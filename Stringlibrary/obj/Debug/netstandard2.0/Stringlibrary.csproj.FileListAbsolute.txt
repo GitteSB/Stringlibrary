@@ -1,0 +1,9 @@
+C:\Users\Sevel\source\repos\Stringlibrary\bin\Debug\netstandard2.0\Stringlibrary.deps.json
+C:\Users\Sevel\source\repos\Stringlibrary\bin\Debug\netstandard2.0\Stringlibrary.dll
+C:\Users\Sevel\source\repos\Stringlibrary\bin\Debug\netstandard2.0\Stringlibrary.pdb
+C:\Users\Sevel\source\repos\Stringlibrary\obj\Debug\netstandard2.0\Stringlibrary.csprojAssemblyReference.cache
+C:\Users\Sevel\source\repos\Stringlibrary\obj\Debug\netstandard2.0\Stringlibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sevel\source\repos\Stringlibrary\obj\Debug\netstandard2.0\Stringlibrary.AssemblyInfoInputs.cache
+C:\Users\Sevel\source\repos\Stringlibrary\obj\Debug\netstandard2.0\Stringlibrary.AssemblyInfo.cs
+C:\Users\Sevel\source\repos\Stringlibrary\obj\Debug\netstandard2.0\Stringlibrary.dll
+C:\Users\Sevel\source\repos\Stringlibrary\obj\Debug\netstandard2.0\Stringlibrary.pdb
